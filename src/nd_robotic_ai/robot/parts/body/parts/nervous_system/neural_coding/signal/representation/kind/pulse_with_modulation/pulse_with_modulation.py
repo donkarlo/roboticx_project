@@ -3,7 +3,7 @@ from nd_robotic_ai.robot.state.state import State
 
 class PulseWithModulation(State):
     """
-    TODO: Can be associated with neiral coding.
+    TODO: Can be associated with neural coding.
 
     Application: By changing PWC shape we can increase or decrease a rotor_composite speed
     Application 2:  changing the shape is changing the frequencey of the voltage in brushless rotors
