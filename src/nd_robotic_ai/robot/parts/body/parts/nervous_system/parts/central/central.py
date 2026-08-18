@@ -1,6 +1,6 @@
-from nd_robotic_ai.robot.parts.body.parts.nervous_system.parts.central.children.brain.brain import Brain
-from nd_robotic_ai.robot.parts.body.parts.nervous_system.parts.central.children.retina.retina import Retina
-from nd_robotic_ai.robot.parts.body.parts.nervous_system.parts.central.children.spinal_cord.spinal_cord import \
+from nd_robotic_ai.robot.parts.body.parts.nervous_system.parts.central.part.brain.brain import Brain
+from nd_robotic_ai.robot.parts.body.parts.nervous_system.parts.central.part.retina.retina import Retina
+from nd_robotic_ai.robot.parts.body.parts.nervous_system.parts.central.part.spinal_cord.spinal_cord import \
     SpinalCord
 from nd_robotic_ai.robot.composition.composite import Composite as RobioticCompositeUnit
 
