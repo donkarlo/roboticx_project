@@ -1,3 +1,4 @@
 class Repolarization:
     def __init__(self):
-        pass
+        seld._period = None
+        seld._amplitutde = None

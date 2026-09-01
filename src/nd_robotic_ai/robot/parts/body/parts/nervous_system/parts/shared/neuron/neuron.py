@@ -5,7 +5,7 @@ from nd_robotic_ai.robot.parts.body.parts.nervous_system.neural_coding.action_po
     Publisher as ActionPotentialPublisher
 from nd_utility.data.kind.group.decorator.unikinded import Unikinded
 
-
+ac
 class Neuron(RobotComposite, ActionPotentialPublisher):
     def __init__(self):
         RobotComposite.__init__(self)
